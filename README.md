@@ -19,9 +19,12 @@ Simple calculator is a calculator which is used to do a simple mathematical oper
 •	No complexity and easy to use.
 
 # TOOLS USED :
-Pycharm project for running the programme.
+[Pycharm project](https://pycharm-community-edition.en.softonic.com/download) for running the programme.
+
 
 BIKENDRA BIKRAM K.C
+
 COVENTRY ID:210213
+
 BATCH:30 ‘B’
 
